@@ -1,0 +1,6 @@
+var moviedata = `[{
+	"name":"movie A",
+	"description":"description A"
+}, {"name":"movie B",
+	"description":"description B"
+}]`;
