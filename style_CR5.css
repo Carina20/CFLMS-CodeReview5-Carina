@@ -96,8 +96,42 @@ h2 {
 	font-weight: bold;
 	display: inline-block;
 	width: 220px;
-	height: 320px;
+	height: 300px;
 	padding-top:20px;
+	border: 1px solid black;
+}
+
+.thumb_class {
+	border: 0.5px solid lightgrey;
+	border-radius: 5px;
+	display: inline;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	float: left;
+	margin-top: 280px;
+	margin-left: 1px;
+}
+
+.field_likes {
+	border:1px solid lightgrey;
+	border-radius:15px;
+	background-color:rgb(77,77,77);
+	color: white;
+	display: inline;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	float: left;
+	margin-top: 230px;
+	margin-left: 1px;
+}
+
+.output_likes {
+	position: absolute, center;
+	margin: 0 auto;
+	margin-top: 5px;
+
 }
 
 #poster_two {
@@ -140,54 +174,49 @@ h2 {
 	width: 600px;
 	height: 400px;
 	border: 1px solid black;
+	
 }
 
 #Number_two {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
+	
 }
 
 #Number_three {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_four {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
+	
 }
 
 #Number_five {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_six {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_one {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_seven {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_eight {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 footer {

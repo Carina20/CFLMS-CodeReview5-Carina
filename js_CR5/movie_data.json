@@ -1,5 +1,5 @@
 var movieA = `[{
-	"name":"Forres Gump",
+	"name":"Forrest Gump",
 	"description":"Heart-warming must-see when you want to get an insight into US history of the 20th century, legendary soundtrack included"
 }]` 
 
