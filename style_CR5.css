@@ -131,6 +131,32 @@ h2 {
 	margin-left: 1px;
 }
 
+#field_likes_Frida {
+	border:1px solid lightgrey;
+	border-radius:15px;
+	background-color:rgb(77,77,77);
+	color: white;
+	display: inline;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	float: right;
+	margin-top: 200px;
+	margin-right: 1px;
+}
+
+#thumb_class_Frida {
+	border: 0.5px solid lightgrey;
+	border-radius: 5px;
+	display: inline;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	float: right;
+	margin-top: 240px;
+	margin-right: 1px;
+}
+
 .output_likes {
 	position: absolute, center;
 	margin: 0 auto;
@@ -140,6 +166,8 @@ h2 {
 
 #poster_Frida {
 	margin-top: 5px;
+	display: inline;
+	border: 1px solid black;
 }
 
 #movie2 {
