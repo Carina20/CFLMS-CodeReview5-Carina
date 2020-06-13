@@ -14,7 +14,7 @@ var moviedataB = JSON.parse(movieB);
 var i = 0;
 for (var i = 0; i < moviedataB.length; i++) {
 	var movie_object = moviedataB[i];
-	document.getElementById("movie2").innerHTML += movie_object.name + "<br>";
+	document.getElementById("movie2").innerHTML += movie_object.name + "<hr width=150> </hr>";
 	document.getElementById("description2").innerHTML += movie_object.description + "<br>";
 }
 

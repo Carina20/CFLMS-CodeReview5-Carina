@@ -1,11 +1,11 @@
 var movieA = `[{
-	"name":"Movie A",
+	"name":"Forres Gump",
 	"description":"Heart-warming must-see when you want to get an insight into US history of the 20th century, legendary soundtrack included"
 }]` 
 
 var movieB = `[{
-	"name":"movie B",
-	"description":"This is the movie B description"
+	"name":"Frida",
+	"description":"Salma Hayek in this picture about the extraordinary Mexican woman, powerful as her paintings"
 }]` 
 
 
