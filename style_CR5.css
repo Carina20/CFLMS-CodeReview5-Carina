@@ -1,5 +1,5 @@
 body {
-	font-family: Arial;
+	font-family: Castellar;
 }
 
 header {
@@ -12,9 +12,9 @@ header {
 }
 
 h1 { 
-	font-size: 40pt;
+	font-size: 50pt;
 	color: white;
-	padding-top: 20px;
+	padding-top: 10px;
 	position: absolute, center;
 	margin-top: 0px;
 }
@@ -22,20 +22,22 @@ h1 {
 nav {
 	height: 50px;
 	background-color: grey;
-	font-size: 18pt;
+	font-size: 25pt;
+	font-family: Calibri Light;
 }
 
 nav > a {
 	color: white;
 	text-decoration: none;
 	padding-left: 20px;
-	margin-top: 10px;
+	margin-top: 5px;
 	position: absolute;
 	font-weight: bold;
 }
 
 main {
 	background-color: rgb(255,255,102);
+	font-family: Calibri Light;
 }
 
 #Heading2AndSort {
@@ -43,16 +45,32 @@ main {
 }
 
 h2 {
-	font-size: 30px;
+	font-size: 40px;
 	display: inline-block;
+	margin-top: 30px;
 }
 
 #SortAndSymbol {
 	float: right;
-	margin-top: 25px;
+	margin-top: 40px;
+	margin-right: 10px;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 	color: rgb(77,77,77);
+}
+
+footer {
+	background-color: black;
+	text-align: center;
+	height: 100px;
+}
+
+h3 {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	margin-top: 0px;
+}
 
 
 
