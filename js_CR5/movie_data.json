@@ -1,6 +1,6 @@
 var movieA = `[{
 	"name":"Movie A",
-	"description":"This is movie A description"
+	"description":"Heart-warming must-see when you want to get an insight into US history of the 20th century, legendary soundtrack included"
 }]` 
 
 var movieB = `[{

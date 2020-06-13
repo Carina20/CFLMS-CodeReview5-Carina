@@ -5,7 +5,7 @@ console.log (moviedataA);
 var i = 0;
 for (var i = 0; i < moviedataA.length; i++) {
 	var movie_object = moviedataA[i];
-	document.getElementById("movie1").innerHTML += movie_object.name + "<br>";
+	document.getElementById("movie1").innerHTML += movie_object.name + "<hr width=150> </hr>";
 	document.getElementById("description1").innerHTML += movie_object.description + "<br>";
 }
 
