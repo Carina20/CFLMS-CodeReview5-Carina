@@ -72,7 +72,7 @@ h2 {
 	flex-flow: row;
 }
 
-#poster_one {
+#poster_Forrest {
 	float: left;
 	display: inline;
 	width: 300px;
@@ -134,7 +134,7 @@ h2 {
 
 }
 
-#poster_two {
+#poster_Frida {
 	margin-top: 5px;
 }
 
@@ -160,9 +160,87 @@ h2 {
 	flex-flow: row;
 }
 
+#poster_Indien {
+	width: 300px;
+	height: 400px;
+}
+
+#movie3 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+
+}
+
+#description3 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
+}
+
+#poster_Tod {
+	width: 300px;
+	height: 400px;
+}
+
+#movie4 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+
+#description4 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
+}
+
+
 #row_3 {
 	display: flex;
 	flex-flow: row;
+}
+
+#poster_Alice {
+	width: 300px;
+	height: 400px;
+}
+
+#movie5 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+
+#description5 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
+}
+
+#poster_Grießnockerl {
+	width: 300px;
+	height: 400px;
+}
+
+#movie6 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+
+#description6 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
 }
 
 #row_4 {
@@ -170,11 +248,48 @@ h2 {
 	flex-flow: row;
 }
 
+#poster_CrazyStupidLove {
+	width: 300px;
+	height: 400px;
+}
+
+#movie7 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+
+#description7 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
+}
+
+#poster_BreakingDawn {
+	width: 300px;
+	height: 400px;
+}
+
+#movie8 {
+	font-family: Calibri Light;
+	font-size: 20pt;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+
+#description8 {
+	font-family: Calibri Light;
+	font-size: 14pt;
+	color: rgb(77,77,77);
+	font-weight: bold;
+}
+
 #Number_one {
 	width: 600px;
 	height: 400px;
 	border: 1px solid black;
-	
 }
 
 #Number_two {
@@ -204,10 +319,6 @@ h2 {
 	height: 400px;
 }
 
-#Number_one {
-	width: 600px;
-	height: 400px;
-}
 
 #Number_seven {
 	width: 600px;

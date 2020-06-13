@@ -5,11 +5,36 @@ var movieA = `[{
 
 var movieB = `[{
 	"name":"Frida",
-	"description":"Salma Hayek in this picture about the extraordinary Mexican woman, powerful as her paintings"
+	"description":"Salma Hayek in this picture about the extraordinary Mexican woman, <br> powerful as her paintings"
 }]` 
 
 
 var movieC = `[{
-	"name":"movie C",
-	"description":"This is  movie C description"
+	"name":"Indien",
+	"description":"This is  movie Indien description"
+}]`
+
+var movieD = `[{
+	"name":"Komm, süßer Tod",
+	"description":"This is  movie Komm.. description"
+}]`
+
+var movieE = `[{
+	"name":"Still Alice",
+	"description":"This is  movie Alice description"
+}]`
+
+var movieF = `[{
+	"name":"Grießnockerlaffäre",
+	"description":"This is  movie Nockerl description"
+}]`
+
+var movieG = `[{
+	"name":"Crazy, Stupid, Love",
+	"description":"This is  movie Crazy.. description"
+}]`
+
+var movieH = `[{
+	"name":"Breaking Dawn",
+	"description":"This is  movie Breaking.. description"
 }]`
