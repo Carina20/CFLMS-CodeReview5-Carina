@@ -1,13 +1,15 @@
 var movieA = `[{
-	"name":"movie A",
+	"name":"Movie A",
 	"description":"This is movie A description"
 }]` 
 
-var movieB = `[{"name":"movie B",
+var movieB = `[{
+	"name":"movie B",
 	"description":"This is the movie B description"
 }]` 
 
 
-var movieC = `[{"name":"movie C",
+var movieC = `[{
+	"name":"movie C",
 	"description":"This is  movie C description"
 }]`
