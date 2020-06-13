@@ -1,4 +1,58 @@
+body {
+	font-family: Arial;
+}
 
+header {
+	height: 100px;
+	background-color: black;
+}
+
+#div_h1 {
+	text-align: center;
+}
+
+h1 { 
+	font-size: 40pt;
+	color: white;
+	padding-top: 20px;
+	position: absolute, center;
+	margin-top: 0px;
+}
+
+nav {
+	height: 50px;
+	background-color: grey;
+	font-size: 18pt;
+}
+
+nav > a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+	margin-top: 10px;
+	position: absolute;
+	font-weight: bold;
+}
+
+main {
+	background-color: rgb(255,255,102);
+}
+
+#Heading2AndSort {
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+	display: inline-block;
+}
+
+#SortAndSymbol {
+	float: right;
+	margin-top: 25px;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgb(77,77,77);
 
 
 
