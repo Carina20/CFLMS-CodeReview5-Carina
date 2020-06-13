@@ -65,13 +65,11 @@ h2 {
 	flex-flow: column;
 	padding-bottom: 20px;
 	display: inline-block;
-	border: 1px solid black;
 }
 
 #row_1 {
 	display: flex;
 	flex-flow: row;
-	border: 1px solid black;
 }
 
 #poster_Forrest {
@@ -80,7 +78,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie1 {
@@ -90,7 +87,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black;
 }
 
 #description1 {
@@ -102,7 +98,6 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 .thumb_class {
@@ -141,7 +136,7 @@ h2 {
 	width: 35px;
 	height: 35px;
 	float: right;
-	margin-top: 200px;
+	margin-top: 195px;
 	margin-left: 40px;
 }
 
@@ -153,7 +148,7 @@ h2 {
 	width: 35px;
 	height: 35px;
 	float: right;
-	margin-top: 240px;
+	margin-top: 235px;
 	margin-left: 40px;
 }
 
@@ -167,7 +162,6 @@ h2 {
 #poster_Frida {
 	margin-top: 5px;
 	display: inline;
-	border: 1px solid black;
 }
 
 #movie2 {
@@ -185,12 +179,12 @@ h2 {
 	color: rgb(77,77,77);
 	font-weight: bold;
 	display: inline-block;
+	padding-bottom:10px;
 }
 
 #row_2 {
 	display: flex;
 	flex-flow: row;
-	border: 1px solid black;
 }
 
 #poster_Indien {
@@ -199,7 +193,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie3 {
@@ -209,7 +202,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description3 {
@@ -221,7 +213,6 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 #poster_Tod {
@@ -230,7 +221,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie4 {
@@ -240,7 +230,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description4 {
@@ -252,14 +241,12 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 
 #row_3 {
 	display: flex;
 	flex-flow: row;
-	border: 1px solid black;
 }
 
 #poster_Alice {
@@ -268,7 +255,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie5 {
@@ -278,7 +264,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description5 {
@@ -290,7 +275,6 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 #poster_Grießnockerl {
@@ -299,7 +283,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie6 {
@@ -309,7 +292,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description6 {
@@ -321,13 +303,11 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 #row_4 {
 	display: flex;
 	flex-flow: row;
-	border: 1px solid black;
 }
 
 #poster_CrazyStupidLove {
@@ -336,7 +316,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie7 {
@@ -346,7 +325,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description7 {
@@ -358,7 +336,6 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 #poster_BreakingDawn {
@@ -367,7 +344,6 @@ h2 {
 	width: 300px;
 	height: 400px;
 	margin-top: 5px;
-	border: 1px solid black;
 }
 
 #movie8 {
@@ -377,7 +353,6 @@ h2 {
 	color: rgb(77,77,77);
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 1px solid black
 }
 
 #description8 {
@@ -389,58 +364,48 @@ h2 {
 	width: 220px;
 	height: 300px;
 	padding-top:20px;
-	border: 1px solid black;
 }
 
 #Number_one {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_two {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 	
 }
 
 #Number_three {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_four {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
-	
 }
 
 #Number_five {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_six {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 
 #Number_seven {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 #Number_eight {
 	width: 600px;
 	height: 400px;
-	border: 1px solid black;
 }
 
 footer {

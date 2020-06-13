@@ -5,7 +5,7 @@ var movieA = `[{
 
 var movieB = `[{
 	"name":"Frida",
-	"description":"Salma Hayek in this picture about the extraordinary Mexican woman, <br> powerful as her paintings"
+	"description":"Salma Hayek in this picture about the extraordinary <br> Mexican woman, powerful as her paintings"
 }]` 
 
 
