@@ -65,3 +65,16 @@ for (var i = 0; i < moviedataH.length; i++) {
 	document.getElementById("movie8").innerHTML += movie_object.name + "<hr width=150> </hr>";
 	document.getElementById("description8").innerHTML += movie_object.description + "<br>";
 }
+
+// var like = document.getElementsByClass("thumb_class");
+// like.addEventListener("click", DisplayLikes);
+
+// function DisplayLikes() {
+// 	var like_numbers ="";
+// 	like_numbers += like + 
+// 	for (var i >= 1) {
+		
+// 		document.getElementsByClass("output_likes").innerHTML 
+// 	}
+
+// }
