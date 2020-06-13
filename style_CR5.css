@@ -142,7 +142,7 @@ h2 {
 	height: 35px;
 	float: right;
 	margin-top: 200px;
-	margin-right: 1px;
+	margin-left: 40px;
 }
 
 #thumb_class_Frida {
@@ -154,7 +154,7 @@ h2 {
 	height: 35px;
 	float: right;
 	margin-top: 240px;
-	margin-right: 1px;
+	margin-left: 40px;
 }
 
 .output_likes {
@@ -456,6 +456,86 @@ h3 {
 	margin-top: 0px;
 }
 
+/*----------------------------media query---------------------------------------------------------*/
 
+@media screen and (max-width: 580px) {
+    #movie1, #description1, #movie2, #description2, #movie3, #description3, #movie4, #description4, #movie5, #description5, 
+    #movie6, #description6, #movie7, #description7, #movie8, #description8, h2, nav {
+        display:none;
+    }
 
+    #movie_container {
+    	width: 40%;
+    	height: 40%;
+    	float: left;
+    	margin-top: 5%;
+    }
+
+    img {
+    	width: 70%;
+    	height: 70%;
+    	float: left;
+    }
+
+    footer {
+    	width: 40%;
+    	height: 40%;
+    }
+
+    h1 {
+    	font-size: 80%;
+    }
+
+    h3 {
+    	font-size: 80%;
+    }
+
+    header {
+    	width: 40%;
+    	height: 40%;
+    }
+
+    #SortAndSymbol {
+    	font-size: 96%;
+    	position: absolute;
+    	color: white;
+    	margin-top: 0;
+    }
+    .thumb_class {
+    	display: inline;
+    	position: absolute;
+    	float: left;
+    	margin-top: 10%;
+    	border:none;
+    	opacity:0.8;
+    }
+
+    .field_likes {
+    	display: inline;
+    	position: absolute;
+    	float: left;
+    	margin-left: 0;
+    	margin-top: 0;
+    	opacity:0.9;
+    }
+
+     .field_likes_Frida {
+    	display: inline;
+    	position: absolute;
+    	float: left;
+    	margin-left: 0;
+    	margin-top: 0;
+    	opacity:0.9;
+}
+
+ 	.thumb_class_Frida {
+    	display: inline;
+    	position: absolute;
+    	float: left;
+    	margin-left: 0;
+    	margin-top: 10%;
+    	border:none;
+    	opacity:0.8;
+    }
+}
 /*---------------------media query! --------------------------------*/
